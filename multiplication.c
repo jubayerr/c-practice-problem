@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <conio.h>
 
-// to print multiplication table
+// Author : Jubayer
+// Perpose : to print a multiplication table
 
 int main()
 {
